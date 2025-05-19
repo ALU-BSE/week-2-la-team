@@ -1,0 +1,452 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Silent Dawn",
+      "author": "Elena Rivers",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Whispers of the Forest",
+      "author": "Kai Thompson",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "Echoes in the Wind",
+      "author": "Mira Patel",
+      "published_year": 2005
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "title": "Shadows of Time",
+      "author": "Derek White",
+      "published_year": 1999
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "title": "Beyond the Stars",
+      "author": "Isabella Hart",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "title": "Crimson Horizon",
+      "author": "Liam Brooks",
+      "published_year": 2007
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "title": "The Forgotten Tale",
+      "author": "Ava Stone",
+      "published_year": 1995
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "title": "Ocean's Whisper",
+      "author": "Noah Ellis",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "title": "The Eternal Flame",
+      "author": "Sophia Lane",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "title": "Secrets of the Moon",
+      "author": "Jack Winters",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "title": "Rise of the Phoenix",
+      "author": "Emma Bright",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 12,
+    "fields": {
+      "title": "Through the Mist",
+      "author": "Daniel Cross",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 13,
+    "fields": {
+      "title": "The Midnight Howl",
+      "author": "Chloe Knight",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 14,
+    "fields": {
+      "title": "Whirlwind",
+      "author": "Ethan Cole",
+      "published_year": 2009
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 15,
+    "fields": {
+      "title": "Lunar Veil",
+      "author": "Aria Moore",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 16,
+    "fields": {
+      "title": "Desert Mirage",
+      "author": "Caleb Reed",
+      "published_year": 2006
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 17,
+    "fields": {
+      "title": "Twilight's Embrace",
+      "author": "Zoe Greene",
+      "published_year": 2015
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 18,
+    "fields": {
+      "title": "Beneath the Surface",
+      "author": "Nathan Snow",
+      "published_year": 2002
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 19,
+    "fields": {
+      "title": "Frozen Echo",
+      "author": "Lily Rivers",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 20,
+    "fields": {
+      "title": "Stormborn",
+      "author": "Owen Black",
+      "published_year": 2017
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 21,
+    "fields": {
+      "title": "Windswept",
+      "author": "Ivy Clarke",
+      "published_year": 1996
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 22,
+    "fields": {
+      "title": "The Ember Path",
+      "author": "Logan Sharp",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 23,
+    "fields": {
+      "title": "Gilded Thorns",
+      "author": "Maya Ray",
+      "published_year": 2001
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 24,
+    "fields": {
+      "title": "Veins of Ice",
+      "author": "Jayden Frost",
+      "published_year": 1997
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 25,
+    "fields": {
+      "title": "Scarlet Chains",
+      "author": "Ella Snow",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 26,
+    "fields": {
+      "title": "Cradle of Storms",
+      "author": "Miles Flint",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 27,
+    "fields": {
+      "title": "Ashes of Eden",
+      "author": "Harper Vale",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 28,
+    "fields": {
+      "title": "The Glass Kingdom",
+      "author": "Mason Lee",
+      "published_year": 2008
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 29,
+    "fields": {
+      "title": "Thornspell",
+      "author": "Luna Wren",
+      "published_year": 2011
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 30,
+    "fields": {
+      "title": "Ironbound",
+      "author": "Theo Brooks",
+      "published_year": 2003
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 31,
+    "fields": {
+      "title": "Celestial Descent",
+      "author": "Aurora Knight",
+      "published_year": 2000
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 32,
+    "fields": {
+      "title": "The Wolf Pact",
+      "author": "Axel Drake",
+      "published_year": 1998
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 33,
+    "fields": {
+      "title": "Mirrored Realms",
+      "author": "Nova Blair",
+      "published_year": 2004
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 34,
+    "fields": {
+      "title": "The Blood Oath",
+      "author": "Leo Crow",
+      "published_year": 2010
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 35,
+    "fields": {
+      "title": "Ivory Blade",
+      "author": "Clara Hayes",
+      "published_year": 2012
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 36,
+    "fields": {
+      "title": "Garden of Thorns",
+      "author": "Reese Night",
+      "published_year": 2013
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 37,
+    "fields": {
+      "title": "The Ice Queen",
+      "author": "Jade Wells",
+      "published_year": 2016
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 38,
+    "fields": {
+      "title": "Clockwork Angels",
+      "author": "Seth Grayson",
+      "published_year": 2014
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 39,
+    "fields": {
+      "title": "The Coral Curse",
+      "author": "Faith Hart",
+      "published_year": 2022
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 40,
+    "fields": {
+      "title": "Driftwood Crown",
+      "author": "Blake Shore",
+      "published_year": 2023
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 41,
+    "fields": {
+      "title": "Starborn Heir",
+      "author": "Skye Rayne",
+      "published_year": 2024
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 42,
+    "fields": {
+      "title": "Frostheart",
+      "author": "Troy Wilde",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 43,
+    "fields": {
+      "title": "The Vinekeeper",
+      "author": "Willow Shade",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 44,
+    "fields": {
+      "title": "Golden Ash",
+      "author": "Ember Lane",
+      "published_year": 2020
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 45,
+    "fields": {
+      "title": "Song of Cinders",
+      "author": "Haven Gray",
+      "published_year": 2019
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 46,
+    "fields": {
+      "title": "Moonlace",
+      "author": "Cass Rowan",
+      "published_year": 2023
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 47,
+    "fields": {
+      "title": "Tides of Dust",
+      "author": "Phoenix Vale",
+      "published_year": 2022
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 48,
+    "fields": {
+      "title": "Emberfall",
+      "author": "Jasper Reed",
+      "published_year": 2018
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 49,
+    "fields": {
+      "title": "Crownless",
+      "author": "Briar Wren",
+      "published_year": 2021
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 50,
+    "fields": {
+      "title": "Veil of Smoke",
+      "author": "Soren Gale",
+      "published_year": 2020
+    }
+  }
+]
